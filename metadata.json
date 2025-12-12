@@ -1,0 +1,5 @@
+{
+  "name": "ExamGenius",
+  "description": "An AI-powered tool for teachers to effortlessly generate, edit, and export exam questions involving multiple-choice and essay formats.",
+  "requestFramePermissions": []
+}
